@@ -1,0 +1,9 @@
+# pack-refs with: peeled fully-peeled sorted 
+06594f075f58fc702b3a5a59b8cb6c009a5efb79 refs/heads/master
+40ab8adff61310da95489d732ccb8d28a79cf011 refs/heads/renovate/major-eslint
+e5370a944b0b5766658aea1e70a2c88b7d144c60 refs/heads/renovate/mdx-utils-0.x
+50f48b3ed213776f79f6d9be8888b7afcf8772ae refs/heads/tutorial-part-five
+016feebfe7271ba7d390bed6dfe56f1fce1ff1b5 refs/heads/tutorial-part-four
+22c72d051320c0ccf5b5eeb84bbe15b2ad57337d refs/heads/tutorial-part-one
+94652a84b2968c961d79c05c4771c35f7f1c861a refs/heads/tutorial-part-three
+a3e1f620b4c7298d2cd4258b5f1c47b5c8bfbee3 refs/heads/tutorial-part-two
